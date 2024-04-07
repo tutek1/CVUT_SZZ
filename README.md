@@ -7,7 +7,7 @@ Neručím za správnost nebo úplnost informací, ale věřím, že mnohým to p
 Pokud by někdo nalezl chybu, či chtěl něco přidat (jako OPT, na které nebyl čas nebo předměty jiných specializací), tak je vítán.
 
 Vytvořili:
-Bc. Ondřej Kyzr
-Bc. Petr Procházka
-Bc. Jiří Kropáč
-Bc. Jakub Sakař
+Bc. Ondřej Kyzr, 
+Bc. Petr Procházka, 
+Bc. Jiří Kropáč, 
+Bc. Jakub Sakař, 
